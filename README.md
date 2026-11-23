@@ -8,8 +8,8 @@ I'm planning to use them maybe as a cluster by adding more bunches after they ge
 | Charm | image | with appearance added |
 |---|---|---|
 | flower | ![alt text](images/flower.png) | ![alt text](images/flower-a.png)|
-| star | ![alt text](images/image.png) | ![alt text](images/star-a.png) |
-| album | ![alt text](images/image-1.png)| ![alt text](images/album-a.png) |
+| star | ![alt text](images/star.png) | ![alt text](images/star-a.png) |
+| album | ![alt text](images/album.png)| ![alt text](images/album-a.png) |
 
 ## Repo
 
